@@ -58,7 +58,7 @@
     </div>
 
     <!-- Main content -->
-    <div class="flex-grow bg-gray-100 ml-0 " :class="{ 'ml-0': isSidebarExpanded }">
+    <div class="flex-grow bg-gray-200 ml-0 " :class="{ 'ml-0': isSidebarExpanded }">
       <!-- Content goes here -->
       <RouterView />
     </div>
