@@ -2,7 +2,7 @@
   <div class="flex min-h-screen overflow-hidden bg-red-500">
     <!-- Sidebar -->
     <div
-      class="flex-shrink-0 w-16 bg-gray-700 text-white flex flex-col items-center justify-center "
+      class="flex-shrink-0 w-16 bg-gray-500 text-white flex flex-col items-center justify-center "
       :class="{ 'w-64': isSidebarExpanded }"
     >
       <!-- Sidebar Toggle Button -->
